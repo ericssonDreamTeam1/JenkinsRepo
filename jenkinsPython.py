@@ -1,1 +1,1 @@
-prnt "Hello Python Test..."
+print "Hello Python Test..."
